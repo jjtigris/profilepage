@@ -49,16 +49,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -76,5 +76,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I obtained PhD from University of Cambridge. My current research interests include but not limited to Bayesian deep learning, causal inference, design and application of deep learning systems. We are devoted to solve the fundamental challenge of the generalization ability of machine learning systems. I serve as programme committee members and reviewers for several key machine learning journals and conferences. Our lab has published several papers on top machine learning and artificial intelligence conferences, such as NeurIPS, CVPR, ICCV, AAAI, IJCAI, etc.
+
 {style="text-align: justify;"}
