@@ -10,7 +10,7 @@ last_name: Ye
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of John Hop
+role: Assistant Professor 
 
 # Organizations/Affiliations to show in About widget
 organizations:
