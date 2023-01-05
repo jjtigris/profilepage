@@ -1,14 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Nanyang Ye
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Nanyang
+last_name: Ye
 
 # Is this the primary user of the site?
 superuser: true
