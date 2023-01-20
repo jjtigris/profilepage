@@ -75,7 +75,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+Short description:
 I obtained PhD from University of Cambridge. My current research interests include but not limited to Bayesian deep learning, causal inference, design and application of deep learning systems. We are devoted to solve the fundamental challenge of the generalization ability of machine learning systems. I serve as programme committee members and reviewers for several key machine learning journals and conferences. Our lab has published several papers on top machine learning and artificial intelligence conferences, such as NeurIPS, CVPR, ICCV, AAAI, IJCAI, etc.
 
 {style="text-align: justify;"}
