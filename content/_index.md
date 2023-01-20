@@ -35,7 +35,7 @@ sections:
           company: Shanghai Jiaotong University
           company_url: ''
           company_logo: org-gc
-          location: Shanghai, China
+          location: Shanghai
           date_start: ''
           date_end: ''
           description: |2-
